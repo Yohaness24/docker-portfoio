@@ -1,0 +1,105 @@
+
+
+<html>
+<style>/* Add your CSS styles here */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 50;
+    padding: 0;
+}
+
+
+.img-container{
+    position : relative;
+    background-image: url('../root/image1.jpg');
+    background-size: cover;
+    height: 400px;
+    
+}
+
+.inner-container h1 {
+    
+    font-size: 60px;
+    position: absolute;
+    text-align:center;
+    width : 100%;
+    color:beige;
+    font-display:200;
+    margin-top: 50px;
+}
+
+.ref-container {
+    font-style: normal;
+    font-size: larger;
+
+}
+
+
+.welcome {
+    font-style: normal;
+    font-size: larger;
+    font-size: 15px;
+    position: absolute;
+    text-align:center;
+    color: bisque;
+    padding-left: 499px;
+    padding-top: 350px;
+
+}
+
+
+.inner-container h1 span {
+    border: 6px solid white;
+    padding: 6px 14px;
+    display: inline-block;
+}
+
+
+h1 {
+    font-size: 36px;
+}
+
+/* Center-align the navigation menu horizontally */
+.center-menu {
+    text-align: center;
+}
+
+.center-menu li {
+    display: inline; /* Display menu items horizontally */
+    margin: 0 10px; /* Add spacing between menu items (adjust as needed) */
+}
+
+.center-menu a {
+    text-decoration: none;
+    color: #333; /* Adjust the text color as needed */
+}
+
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+.project {
+    margin-bottom: 40px;
+}
+
+.project img {
+    max-width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+</style>
+</body>
+</html>
