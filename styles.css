@@ -1,7 +1,7 @@
 
 
 <html>
-<style>/* Add your CSS styles here */
+<style>
 body {
     font-family: 'Roboto', sans-serif;
     margin: 50;
@@ -11,7 +11,7 @@ body {
 
 .img-container{
     position : relative;
-    background-image: url('../root/image1.jpg');
+    background-image: url('root/image1.jpg');
     background-size: cover;
     height: 400px;
     
