@@ -11,7 +11,7 @@ body {
 
 .img-container{
     position : relative;
-    background-image: url('https://github.com/Yohaness24/docker-portfoio/blob/aa397d771b77ca44ed4db75ae49e59f309590e99/image1.jpg');
+    background-image: url('image1.jpg');
     background-size: cover;
     height: 400px;
     
