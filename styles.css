@@ -11,7 +11,7 @@ body {
 
 .img-container{
     position : relative;
-    background-image: url('../root/image1.jpg');
+    background-image: url('image1.jpg');
     background-size: cover;
     height: 400px;
     
