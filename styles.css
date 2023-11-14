@@ -2,7 +2,7 @@
 
 <html>
 <style>
-@media only screen and (max-width: 768px) {
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 50;
@@ -101,7 +101,6 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
-    }
 }
 </style>
 </body>
