@@ -16,10 +16,6 @@ body {
      background-size: cover;
      height: 400px;
      display: flex;
-     align-items: center;
-     justify-content: center;
-    
-    
 }
 
 .inner-container h1 {
