@@ -15,7 +15,6 @@ body {
      background-image: url('image1.jpg');
      background-size: cover;
      height: 400px;
-     display: flex;
 }
 
 .inner-container h1 {
