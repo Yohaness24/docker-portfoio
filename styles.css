@@ -12,15 +12,12 @@ body {
 
 .img-container{
      position: relative;
-            background-image: url('image1.jpg');
-            background-size: cover;
-            height: 300px;
-            text-align: center;
-            color: beige;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-    
+     background-image: url('image1.jpg');
+     background-size: cover;
+     height: 400px;
+     display: flex
+     align-items: center;
+     justify-content: center;
 }
 
 .inner-container h1 {
